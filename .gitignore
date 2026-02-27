@@ -1,0 +1,5 @@
+node_modules/
+*.pdf
+*.Zone.Identifier
+report.json
+sbom.spdx.json

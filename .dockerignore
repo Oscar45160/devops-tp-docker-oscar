@@ -4,3 +4,9 @@ README.md
 .gitignore
 *.md
 .DS_Store
+*.pdf
+*.html
+*.Zone.Identifier
+package.json
+node_modules
+.hadolint.yaml
